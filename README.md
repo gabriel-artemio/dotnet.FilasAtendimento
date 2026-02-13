@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto consiste no desenvolvimento de uma API RESTful para emissão e gerenciamento de senhas de atendimento, construída com .NET e MySQL.
+Este projeto consiste no desenvolvimento de uma API RESTful para emissão e gerenciamento de senhas de atendimento, construída com .NET e SQLite.
 
 A API permite o controle completo das filas de atendimentos, famosas senhas, onde é possível emitir e gerenciar uma senha, de acordo com o tipo do serviço e prioridade de atendimento, além de contar com um sistema de autenticação e autorização via JWT (JSON Web Token), garantindo segurança no acesso aos endpoints.
 
@@ -11,7 +11,7 @@ O projeto foi desenvolvido com foco em boas práticas, organização de código 
 🛠️ Tecnologias utilizadas
 <ul>
   <li>⚙️ .NET</li>
-  <li>🗄️ MySQL</li>
+  <li>🗄️ SQLite</li>
   <li>🔐 JWT (JSON Web Token)</li>
 </ul>
 
