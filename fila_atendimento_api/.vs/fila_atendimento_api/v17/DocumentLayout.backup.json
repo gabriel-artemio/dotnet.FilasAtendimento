@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|d:\\projetos\\projetos_dev\\dotnet\\dotnet.filasatendimento\\fila_atendimento_api\\models\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|solutionrelative:models\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|d:\\projetos\\projetos_dev\\dotnet\\dotnet.filasatendimento\\fila_atendimento_api\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|solutionrelative:models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|d:\\projetos\\projetos_dev\\dotnet\\dotnet.filasatendimento\\fila_atendimento_api\\models\\prioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|solutionrelative:models\\prioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|d:\\projetos\\projetos_dev\\dotnet\\dotnet.filasatendimento\\fila_atendimento_api\\models\\unidadeservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|solutionrelative:models\\unidadeservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|d:\\projetos\\projetos_dev\\dotnet\\dotnet.filasatendimento\\fila_atendimento_api\\models\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFBE3D-252B-4206-8C27-6BA8DA443CD8}|fila_atendimento_api.csproj|solutionrelative:models\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnidadeServico.cs",
+              "DocumentMoniker": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\UnidadeServico.cs",
+              "RelativeDocumentMoniker": "Models\\UnidadeServico.cs",
+              "ToolTip": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\UnidadeServico.cs",
+              "RelativeToolTip": "Models\\UnidadeServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:46:05.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Unidade.cs",
+              "DocumentMoniker": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\Unidade.cs",
+              "RelativeDocumentMoniker": "Models\\Unidade.cs",
+              "ToolTip": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\Unidade.cs",
+              "RelativeToolTip": "Models\\Unidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:45:20.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\Servico.cs",
+              "RelativeDocumentMoniker": "Models\\Servico.cs",
+              "ToolTip": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\Servico.cs",
+              "RelativeToolTip": "Models\\Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:41:51.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prioridade.cs",
+              "DocumentMoniker": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\Prioridade.cs",
+              "RelativeDocumentMoniker": "Models\\Prioridade.cs",
+              "ToolTip": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\Prioridade.cs",
+              "RelativeToolTip": "Models\\Prioridade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:41:14.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Senha.cs",
+              "DocumentMoniker": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\Senha.cs",
+              "RelativeDocumentMoniker": "Models\\Senha.cs",
+              "ToolTip": "D:\\Projetos\\projetos_dev\\dotnet\\dotnet.FilasAtendimento\\fila_atendimento_api\\Models\\Senha.cs",
+              "RelativeToolTip": "Models\\Senha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T04:38:07.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
