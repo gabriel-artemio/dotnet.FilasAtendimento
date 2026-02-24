@@ -1,6 +1,5 @@
 ﻿using fila_atendimento_api.BLL;
 using fila_atendimento_api.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace fila_atendimento_api.Controllers
@@ -35,13 +34,13 @@ namespace fila_atendimento_api.Controllers
 
         
         [HttpPost]
-        public dynamic Insert([FromBody] RegistroPonto registroPonto)
+        public dynamic Insert([FromBody] Servico servico)
         {
-            if (registroPonto != null)
+            if (servico != null)
             {
                 try
                 {
-                    bll.Insert(registroPonto);
+                    bll.Insert(servico);
                     return StatusCode(200);
                 }
                 catch (Exception ex)
